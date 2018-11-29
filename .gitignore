@@ -116,3 +116,9 @@ all.config
 
 # fetched Android config fragments
 android/configs/android-*.cfg
+*.config
+android-base-*.xml
+
+# custom
+build.sh
+out/
